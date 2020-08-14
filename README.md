@@ -6,5 +6,5 @@ Aplicação em React Native que acessa uma REST API Pública. O Objetivo desse p
 
 ## APK disponível para Download
 
-[https://criptonita.info/apk/react-native-first.apk](https://criptonita.info/apk/react-native-first.apk)
+[http://downloads.criptonita.info/react-native-first.apk](http://downloads.criptonita.info/react-native-first.apk)
 
